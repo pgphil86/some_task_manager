@@ -1,0 +1,11 @@
+alembic
+fastapi
+httpx
+loguru
+psycopg2-binary
+pydantic
+python-dotenv
+pytest
+requests
+SQLAlchemy
+uvicorn
