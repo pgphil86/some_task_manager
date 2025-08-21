@@ -2,7 +2,7 @@
 
 FastAPI приложение для управления задачами с CRUD операциями.
 
-## 🚀 Features
+## Features
 - FastAPI + SQLAlchemy + PostgreSQL
 - Alembic миграции
 - Pytest тесты
